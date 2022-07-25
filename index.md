@@ -12,4 +12,3 @@ git init
 
 ## Checking status
 - git status
-
