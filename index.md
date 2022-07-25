@@ -4,14 +4,14 @@ Created by Nidhi Bhat for experimenting with Git etc.
 ## Creating a project
 git init
 
-## commit workflow
+## Commit workflow
 - git add filename
 - git commit -m " the commit message goes in here "
 
 ## Checking status
 - git status
 
-## checking commit history
+## Checking commit history
 - git log 
 
 ## Adding and checking remotes
